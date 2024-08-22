@@ -15,6 +15,11 @@
 A weather forecasting web application built with HTML, CSS, and JavaScript.<br>
 This app allows users to search for a city and retrieve current weather information, including temperature, humidity, wind speed, longitude, and latitude, from a openweathermap API.
 
+## Project Structure
+- `index.html`: The main HTML file that structures the Web App.
+- `style.css`: Contains the CSS for the Weather Forcasting Web App.
+- `script.js`: Implements the Javascript functionality for task management.
+
 ## Features
 - Search for weather information by city name.
 - Displays temperature, humidity, wind speed, longitude, and latitude.
