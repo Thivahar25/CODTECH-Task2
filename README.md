@@ -3,7 +3,7 @@
 **InternID:** CT6WTDS313<br>
 **Domain:** FULL STACK DEVELOPMENT<br>
 **Duration:** July 10th to August 25th<br>
-**Mentor:** Neela Santhosh Kumar<br>
+**Mentor:** Muzammil Ahmed<br>
 
 # Overview of the Project
 
